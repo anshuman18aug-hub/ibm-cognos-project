@@ -1,2 +1,2 @@
 # ibm-cognos-project
-IBM Cognos Project
+Built interactive sales and service dashboard using IBM Cognos 
